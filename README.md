@@ -1,6 +1,6 @@
 <div align="center">
 
-# Asterisk AI Voice Agent
+#Bizvoice
 
 ![Version](https://img.shields.io/badge/version-6.2.2-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -22,7 +22,7 @@ The most powerful, flexible open-source AI voice agent for Asterisk/FreePBX. Fea
 
 - [🚀 Quick Start](#-quick-start)
 - [🎉 What's New](#-whats-new-in-v611)
-- [🌟 Why Asterisk AI Voice Agent?](#-why-asterisk-ai-voice-agent)
+- [🌟 WhyBizvoice?](#-why-asterisk-ai-voice-agent)
 - [✨ Features](#-features)
 - [🎥 Demo](#-demo)
 - [🛠️ AI-Powered Actions](#-ai-powered-actions)
@@ -246,7 +246,7 @@ For full release notes and migration guide, see [CHANGELOG.md](CHANGELOG.md).
 
 ---
 
-## 🌟 Why Asterisk AI Voice Agent?
+## 🌟 WhyBizvoice?
 
 | Feature | Benefit |
 |---------|---------|
